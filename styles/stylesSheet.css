@@ -2,20 +2,28 @@ body {
   background-color: lightblue;
 }
 
-h1{
-  color: red;
-  hight: 200px;
-  background-color: grey;
-  padding-left: 100px;
-  padding-top: 100px;
-  padding-bottom: 100px;
-  margin-left: 100px;
-  margin-top: 100px;
-  margin-bottom: 100px;
-}
-
 table {
   background-color: lightpink;
+}
+
+#nav{
+  background-color: blue;
+  height: 100px;
+  width: 500px;
+  margin-left: 30px
+}
+
+#md{
+  background-color: red;
+}
+
+#footer{
+  background-color: black;
+  height:100px;
+}
+.table1{
+  background-color: #005050;
+  border: solid;
 }
 
 .table1{
@@ -30,6 +38,28 @@ table {
   height: 100px;
 }
 
+h1{
+  color: red;
+  height: 200px;
+  background-color: grey;
+  /*padding-left: 60px;
+  padding-top: 100px;
+  padding-bottom: 300px;*/
+  margin-left: 60px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
 td{
   border: solid;
+}
+
+#tab1d1 {
+  color: maroon;
+  background-color: white;
+  height: 100px;
+}
+
+#tab1d2 {
+  background-color: blue;
 }

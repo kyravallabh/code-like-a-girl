@@ -1,0 +1,6 @@
+<!-- images-->
+<!--image from web-->
+<img src="https://www.google.com/logos/doodles/2021/teachers-day-2021-october-05-6753651837109099-l.webp"/>
+
+<!-- image from local machine-->
+<img src="/images/seagull.jpeg" alt="the image of a seagull"/>

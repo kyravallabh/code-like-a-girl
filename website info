@@ -1,0 +1,74 @@
+<div id="nav">
+
+</div>
+<div id="md">
+  <h1> HELLO WORLD !</h1>
+  <h2> WELCOME TO KYRAS' WEBPAGE</h2>
+  <p> On this awesome page you can find a number of cool things</p>
+  <a href="https://facebook.com"> This link will take you to the Facebook website</a>
+
+  <!-- here i am creating a link-->
+  <!-- this has no affect on the actuall website-->
+  <ul>
+     <li> Tie-dye T-shirts</li>
+     <li> sneakers</li>
+     <li> hoodies</li>
+     <li> ripped jeans</li>
+  </ul>
+  <h3> Add an extra R40 to get any of the below added to your order!</h3>
+  <ol>
+    <li> clear lipgloss (15ml)</li>
+    <li> scrunchie</li>
+    <li> friendship braclets (in packs of 2)</li>
+  </ol>
+  <!--tables-->
+  <!--first table-->
+  <table class="table1">
+    <tr>
+      <th class="tab1h">Name and Surname</th>
+      <th class="tab1h">Order Number</th>
+    </tr>
+    <tr>
+      <td id="tab1d1">Karen</td>
+      <td id="tab1d2">25 000</td>
+    </tr>
+    <tr>
+      <td>Stephonie</td>
+      <td>175 000</td>
+    </tr>
+  </table>
+  <br>
+  <br>
+
+  <!--second table-->
+  <table class="table2">
+    <tr>
+      <th class="tab1h">Name and Surname</th>
+      <th>Order Number</th>
+    </tr>
+    <tr>
+      <td>Larry</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td>Jackie</td>
+      <td>170</td>
+    </tr>
+  </table>
+  <br>
+  <br>
+
+  <!-- input fields-->
+  <form>
+    <lable>Name :</lable>
+    <input type="text"/>
+    <br>
+    <lable>Surname :</lable>
+    <input type="text"/>
+    <br>
+    <br>
+    <input type="submit" value="submit"/>
+  </form>
+
+</div>
+<div id="footer">
